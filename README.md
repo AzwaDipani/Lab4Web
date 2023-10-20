@@ -50,7 +50,7 @@ Kelas : TI.22.A1
 </html>
 ```
 
-![2](https://github.com/syifaaurellia/Lab4web/assets/115867244/43a8ef2f-6c96-4843-840a-eeb4bcce6746)
+![img](Pictures/Screenshot%20(155).png)
 
 
 **2. Mengatur Clearfix Element**
@@ -98,11 +98,11 @@ mengaturnya.
 </html>
 ```
 
-![3](https://github.com/syifaaurellia/Lab4web/assets/115867244/3b99b210-69f0-4683-b9ce-2b733efe9708)
+![img](Pictures/Screenshot%20(156).png)
 
 > - Lakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both, right), dan amati perubahannya.
 
-![5](https://github.com/syifaaurellia/Lab4web/assets/115867244/1cad2f39-edd6-4ae1-966f-5695843bc262)
+![img](Pictures/Screenshot%20(157).png)
 
 
 **3. Membuat Layout Sederhana**
@@ -136,7 +136,7 @@ mengaturnya.
 </footer>
 ```
 
-![6](https://github.com/syifaaurellia/Lab4web/assets/115867244/48130335-60d8-4fd9-ba8a-bfc3480c3d51)
+![img](Pictures/Screenshot%20(158).png)
 
 > - Kemudian tambahkan kode CSS untuk membuat layoutnya :
 ```
@@ -173,7 +173,7 @@ header h1 {
 }
 ```
 
-![7](https://github.com/syifaaurellia/Lab4web/assets/115867244/ed0a5780-d573-4bcc-ac6e-9b929486f6d9)
+![img](Pictures/Screenshot%20(159).png)
 
 
 **4. Membuat Navigasi**
@@ -198,7 +198,7 @@ nav a:hover {
 }
 ```
 
-![8](https://github.com/syifaaurellia/Lab4web/assets/115867244/5b6d01de-d852-4877-b6b3-f548e6c84b2f)
+![img](pictures/Screenshot%20(160).png)
 
 
 **5. Mmebuat Hero Panel**
@@ -231,7 +231,7 @@ pretium ac.</p>
     line-height: 25px;
 }
 ```
-![11](https://github.com/syifaaurellia/Lab4web/assets/115867244/b196684c-b45d-4b0b-a438-38c14394de52)
+![img](Pictures/Screenshot%20(161).png)
 
 **6. Mengatur Layout Main dan Sidebar**
 > - Selanjutnya mengatur main content dan sidebar, tambahkan CSS float
@@ -308,7 +308,7 @@ pharetra est nunc, nec pretium nunc pretium ac.</p>
 }
 ```
 
-![13](https://github.com/syifaaurellia/Lab4web/assets/115867244/c2eba812-fa89-45b5-a345-36e28df936cc)
+![img](Pictures/Screenshot%20(162).png)
 
 
 
@@ -324,7 +324,7 @@ footer {
 }
 ```
 
-![12](https://github.com/syifaaurellia/Lab4web/assets/115867244/5f8c345f-2ebd-40c4-a85c-c5e335804ef0)
+![img](Pictures/Screenshot%20(163).png)
 
 
 **9. Menambahkan Elemen lainnya pada Main Content**
@@ -403,7 +403,7 @@ box img {
 }
 ```
 
-![13](https://github.com/syifaaurellia/Lab4web/assets/115867244/df6c3f9a-96cb-4af9-be0a-1795f197ac96)
+![img](Pictures/Screenshot%20(164).png)
 
 
 **10. Menambahkan Content Artikel**
@@ -457,15 +457,15 @@ pretium ac.</p>
 }
 ```
 
-![14](https://github.com/syifaaurellia/Lab4web/assets/115867244/b6d48013-1684-4186-ac1f-e821a0f45542)
+![img](Pictures/Screenshot%20(165).png)
 
 
 **11. Lakukan validasi dokumen HTML dengan mengakses http://validator.w3.org/**
 
-![15](https://github.com/syifaaurellia/Lab4web/assets/115867244/0d8b82d2-433d-48c9-b96d-f8aefe7b9fc1)
+![img](Pictures/Screenshot%20(166).png)
 
 
-![16](https://github.com/syifaaurellia/Lab4web/assets/115867244/554bf716-c1ae-41bb-8f28-98e2d24a78fb)
+![img](Pictures/Screenshot%20(167).png)
 
 
 ## Pertanyaan dan Tugas
@@ -538,7 +538,7 @@ pretium ac.</p>
 ```
 
 
-![17](https://github.com/syifaaurellia/Lab4web/assets/115867244/0d53dd2a-2211-40f1-be47-66e5e891562f)
+![img](Pictures/Screenshot%20(168).png)
 
 
 2. Tambahkan layout untuk menu `Contact` => yang berisi form isian: nama, email, message, dll
@@ -634,8 +634,8 @@ pretium ac.</p>
 ```
 
 
-![18](https://github.com/syifaaurellia/Lab4web/assets/115867244/71baaad9-545c-4319-925a-aec0499bc892)
+![img](Pictures/Screenshot%20(169).png)
 
 
 
-## Finish, Terima Kasih
+## Selesai, Terima Kasih
