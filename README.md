@@ -198,7 +198,7 @@ nav a:hover {
 }
 ```
 
-![img](pictures/Screenshot%20(160).png)
+![img](Pictures/Screenshot%20(160).png)
 
 
 **5. Mmebuat Hero Panel**
